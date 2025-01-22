@@ -11,3 +11,4 @@ class Environment:
         return self.config.get('POLYGON_API_KEY')
 
 env = Environment()
+
